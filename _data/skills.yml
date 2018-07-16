@@ -7,3 +7,21 @@
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  
+# Programming Languages
+- skill: Javascript
+  description: Have a working proficiency in the Javascript language. 
+
+- skill: Python
+  description: Have a working proficiency in the Python language. 
+  
+# Secondary Language(s)
+- skill: Japanese (日本語)
+  description: Have an elementary understanding of Japanese language, with strengths in reading and speaking--this is a skill that's always being worked on.
+  
+# Other Engineering Tools
+- skill: Autodesk Eagle
+  description: Have a working proficiency in Autdodesk Eagle. Including building complex electronic schematics.
+
+- skill: Autodesk Fusion 360
+  description: Have a working proficiency in Autodesk 360. Including creating custom objects from the ground up, and producing objects from additive manufacturing. 
